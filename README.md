@@ -23,94 +23,13 @@
 * GitHub
 * Visual Studio Code
 
-<<<<<<< HEAD
-## How to Run
 
-Run the chaos testing suite:
-=======
----
-
-## Failure Scenarios Tested
-
-### AI Failures
-
-Simulates:
-
-* AI Timeout Errors
-* AI Model Unavailability
-* Invalid AI Responses
-
-### Network Failures
-
-Simulates:
-
-* Network Timeouts
-* Connection Refused
-* Packet Loss
-
-### Database Failures
-
-Simulates:
-
-* Database Crashes
-* Connection Loss
-* Database Timeouts
-
-### Queue Overload
-
-Simulates:
-
-* Excessive Request Load
-* Queue Saturation
-
-### Cascading Failures
-
-Simulates:
-
-* Database Failure
-* AI Service Failure
-* Network Congestion
-* Queue Overload
-
----
-
-## How to Run
-
-Clone the repository:
-
-```bash
-git clone https://github.com/SrihithaAlli/chaos-testing-framework.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd chaos-testing-framework
-```
-
-Run the chaos test suite:
->>>>>>> 952f65606b3613381cec3c17615a282c3ebf0786
 
 ```bash
 python chaos_test.py
 ```
 
-<<<<<<< HEAD
-## Sample Results
 
-* Total Simulations: 50
-* Total Tests Executed: 200
-* Passed Tests: 79
-* Failed Tests: 121
-* Cascading Failures: 5
-
-## Future Enhancements
-
-* Configurable failure probabilities
-* Automated report generation
-* Real-time monitoring dashboard
-* Distributed system simulation
-=======
 ---
 
 ## Sample Output
@@ -148,7 +67,7 @@ The framework successfully simulated multiple failure conditions and generated s
 * Automated test report generation
 
 ---
->>>>>>> 952f65606b3613381cec3c17615a282c3ebf0786
+
 
 ## Author
 
