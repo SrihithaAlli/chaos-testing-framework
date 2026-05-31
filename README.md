@@ -2,21 +2,7 @@
 
 ## Overview
 
-<<<<<<< HEAD
-The Chaos Testing Framework is a Python-based testing suite designed to intentionally simulate failures in system components to evaluate system resilience and fault tolerance. The framework introduces controlled failures and monitors system behavior under adverse conditions.
-=======
-The Chaos Testing Framework is a Python-based testing suite designed to intentionally simulate failures in system components to evaluate system resilience and fault tolerance. The framework helps identify weaknesses by introducing controlled failures and monitoring system behavior under adverse conditions.
->>>>>>> 952f65606b3613381cec3c17615a282c3ebf0786
 
-## Objective
-
-To simulate and analyze different failure scenarios such as AI service failures, network disruptions, database crashes, queue overloads, and cascading failures in order to assess system reliability and robustness.
-
-<<<<<<< HEAD
-=======
----
-
->>>>>>> 952f65606b3613381cec3c17615a282c3ebf0786
 ## Features
 
 * AI Failure Simulation
